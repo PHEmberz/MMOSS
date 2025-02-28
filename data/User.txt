@@ -1,0 +1,6 @@
+1/::/1/::/false/::/louis/::/li/::/1998-03-18/::/111222333/::/earth/::/male/::/2025-06-03/::/986.0
+2/::/2/::/true
+admin@merchant.monash.edu/::/12345678/::/true
+notmember@student.monash.edu/::/Monash1234/::/false/::/louis/::/li/::/1998-03-18/::/111222333/::/earth/::/male/::/NULL/::/1000.0
+member@student.monash.edu/::/Monash1234/::/false/::/bobo/::/nemesis/::/2000-06-03/::/111222333/::/north pole/::/male/::/2025-06-03/::/940.0
+

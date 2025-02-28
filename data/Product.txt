@@ -1,0 +1,15 @@
+1/::/Phone Charger/::/Brand A/::/Fast charging USB-C cable/::/20.0/::/15.0/::/0/::/Food/::/Bread/::/2023-03-02/::/happiness/::/Not specified/::/Not specified
+2/::/Phone/::/Brand B/::/High-end smartphone/::/3000.0/::/2500.0/::/30/::/Electronics/::/Phones
+3/::/Horror Book/::/Brand C/::/A thrilling horror novel/::/15.0/::/12.0/::/14/::/Books/::/Horror
+4/::/Romantic Book/::/Brand D/::/A beautiful love story/::/18.0/::/14.0/::/21/::/Books/::/Romantic
+5/::/Facial Cream/::/Brand E/::/Natural skincare cream/::/50.0/::/45.0/::/23/::/Beauty/::/Skincare
+6/::/Makeup Kit/::/Brand F/::/Complete makeup set/::/60.0/::/55.0/::/37/::/Beauty/::/Makeup
+7/::/Toothpaste/::/Brand G/::/Whitening toothpaste/::/8.0/::/7.0/::/88/::/Personal Care/::/Hygiene
+8/::/Shaving Kit/::/Brand H/::/Complete shaving set/::/25.0/::/22.0/::/50/::/Personal Care/::/Grooming
+9/::/Apple/::/Organic Farm/::/Fresh organic applesFresh organic applesFresh organic applesFresh organic apples/::/3.0/::/2.5/::/100/::/Food/::/Fruits/::/2024-12-31/::/Apple/::/Keep refrigerated/::/No allergens
+10/::/Beef Steak but this is a very long name, is a very long name, is a very long name, is a very long name, is a very long name, is a very long name/::/Meat House and a very long brand and a very long brand and a very long brand and a very long brand and a very long brand/::/Premium beef steak and a very long description the elder scroll dead by daylight identity V disco elysium/::/100000.0/::/80000.0/::/5000/::/Food/::/Meat/::/2024-06-15/::/Beef and a long ingredient list and a long ingredient list and a long ingredient list and a long ingredient list/::/Store in freeze and in freeze and in freeze and in freeze and in freeze and in freeze and in freeze and in freeze/::/None but yes but none but yes but none but yes but none but yes but none but yes but none
+11/::/Bottled Water/::/Aqua/::/Pure bottled water/::/1.0/::/0.8/::/490/::/Beverages/::/Water/::/2025-01-01/::/Water/::/Store in a cool, dry place/::/None
+12/::/Orange Juice/::/Juicy/::/Freshly squeezed orange juice/::/5.0/::/4.5/::/195/::/Beverages/::/Juices/::/2024-07-01/::/Orange/::/Keep refrigerated/::/None
+13/::/Penguin meat (male)/::/Happy South Pole/::/Is this something edible? Sure./::/99999.0/::/99999.0/::/10/::/Beauty/::/Makeup
+14/::/Airpod/::/Apple/::/I like it. Gift me./::/500.0/::/450.0/::/100/::/Electronics/::/Earbuds
+

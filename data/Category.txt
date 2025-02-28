@@ -1,0 +1,6 @@
+Electronics/::/Phones/::/Earbuds
+Books/::/Horror/::/Romantic
+Beauty/::/Skincare/::/Makeup
+Personal Care/::/Hygiene/::/Grooming
+Food/::/Fruits/::/Bread/::/Meat
+Beverages/::/Water/::/Juices
